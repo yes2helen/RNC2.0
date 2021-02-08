@@ -4,5 +4,5 @@
 
 test  
 test  
-[a](ya.ru)
+[a](http://ya.ru)
 
